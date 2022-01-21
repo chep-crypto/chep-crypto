@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chep-crypto
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on bullding websites and developing mobile application
 - 📫 How to reach me mercychepngeno967@gmail.com
 
